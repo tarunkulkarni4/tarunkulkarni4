@@ -1,43 +1,93 @@
-<h1 align="center">Hi 👋, I'm Tarun Chidambar Kulakarni</h1>
-<h3 align="center">Excited to become a Software Engineer</h3>
+<h1 align="center"><strong>Hi 👋, I'm Tarun Chidambar Kulkarni</strong></h1>
+<h3 align="center">🚀 Excited to become a Software Engineer | Passionate about Full-Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkulkarni4&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkulkarni4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkulkarni4" alt="tarunkulkarni4" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tarunkulkarni5" target="blank"><img src="https://img.shields.io/twitter/follow/tarunkulkarni5?logo=twitter&style=for-the-badge" alt="tarunkulkarni5" /></a> </p>
-
-- 🔭 I’m currently working on **Prescripto-(Online Doctor Appointment)**
-
-- 🌱 I’m currently learning **DSA,Next.js,React.js**
-
-- 👯 I’m looking to collaborate on [Tomato-(Food Delivery App)](https://tomatof-in.onrender.com/)
-
-- 🤝 I’m looking for help with **Chat-App**
-
-- 👨‍💻 All of my projects are available at [https://tarun-kulakarni-portfolio.vercel.app/](https://tarun-kulakarni-portfolio.vercel.app/)
-
-- 💬 Ask me about **React.js, Java (DSA), MongoDB, Tailwind CSS**
-
-- 📫 How to reach me **tarunkulkarni4@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1WUMKdAJtKBnQLEsB9MLHCDyKj01LLw0X](https://drive.google.com/drive/folders/1WUMKdAJtKBnQLEsB9MLHCDyKj01LLw0X)
-
-- ⚡ Fun fact **I debug better at midnight 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tarunkulkarni5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarunkulkarni5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarun kulakarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun kulakarni" height="30" width="40" /></a>
-<a href="https://instagram.com/tarun_kulakarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarun_kulakarni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tarun_kulakarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarun_kulakarni" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarunkulkarni4&label=Profile%20Views&color=ff69b4&style=plastic" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunkulkarni4&show_icons=true&locale=en&layout=compact" alt="tarunkulkarni4" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarunkulkarni4&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkulkarni4&show_icons=true&locale=en" alt="tarunkulkarni4" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkulkarni4&" alt="tarunkulkarni4" /></p>
+## 🧠 About Me
+
+- 🔭 Working on [**Prescripto** 🔗](https://github.com/tarunkulkarni/prescripto) – Online Doctor Appointment App  
+- 👯 Collaborating on [**Tomato** 🔗](https://tomatof-in.onrender.com/) – Food Delivery Application  
+- 💬 Ask me about **React.js**, **Java (DSA)**, **MongoDB**, **Tailwind CSS**  
+- 🌱 Currently learning **Next.js**, **TypeScript**, **System Design**, **Docker**, and **Python Automation**  
+- 📫 Reach me at: **tarunkulkarni4@gmail.com**  
+- 👨‍💻 Portfolio: [**tarun-kulakarni-portfolio.vercel.app** 🔗](https://tarun-kulakarni-portfolio.vercel.app/)  
+- 📄 Resume: [**Google Drive** 🔗](https://drive.google.com/drive/folders/1WUMKdAJtKBnQLEsB9MLHCDyKj01LLw0X)  
+- ⚡ Fun fact: **I debug better at midnight 😄**
+
+---
+
+## 🚀 Projects
+
+| 🔗 Project | 📝 Description | ⚙️ Tech Stack |
+|-----------|----------------|---------------|
+| [**🍅 Tomato**](https://github.com/tarunkulkarni/tomato) | Food delivery app with Stripe integration | `React`, `Node.js`, `MongoDB`, `Tailwind` |
+| [**🩺 Prescripto**](https://github.com/tarunkulkarni/prescripto) | Doctor appointment booking system | `React`, `Express`, `MongoDB`, `JWT` |
+| [**💬 Chat App**](#) | Real-time messaging with sockets | `React`, `Node.js`, `Socket.io` |
+| [**📡 Radar Arduino**](https://github.com/tarunkulkarni/radar-arduino) | Radar using ultrasonic sensor | `Arduino`, `Servo Motor`, `Ultrasonic` |
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,java,html,css,git,docker,firebase,figma,postman,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunkulkarni4&show_icons=true&theme=gradient&title_color=ff69b4&icon_color=00ffff&text_color=ffffff&bg_color=0d1117" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunkulkarni4&theme=highcontrast&hide_border=true&stroke=00ffff&ring=ff69b4" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarunkulkarni4&bg_color=0d1117&color=00ffff&line=ff69b4&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/tarunkulkarni5" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tarun kulakarni" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tarun_kulkarni" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/tarun_kulkarni" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## ✨ Generate Your Own Profile
+
+[![Profile Generator](https://img.shields.io/badge/Create%20Your%20README-blueviolet?style=for-the-badge&logo=github)](https://rahuldkjain.github.io/github-profile-readme-generator/)
+
+---
+
+<p align="center"><strong>✨ Made with 💖 by Tarun Chidambar Kulkarni ✨</strong></p>
