@@ -16,7 +16,7 @@
 - 🔭 Working on: **Prescripto - Doctor Appointment App** (🚧 Work in Progress)  
 - 🍕 Live: [Tomato - Food Delivery App](https://tomatof-in.onrender.com/)  
 - 💬 Ask me about: **React.js**, **Java (DSA)**, **MongoDB**, **Tailwind CSS**  
-- 📚 Learning: **DSA**, **Next.js**, **TypeScript**, **System Design**  
+- 📚 Learning: **DSA**, **React**, **MongoDB**  
 - 💼 Portfolio: [tarun-kulakarni-portfolio.vercel.app](https://tarun-kulakarni-portfolio.vercel.app/)  
 - 📄 [View My Resume](https://drive.google.com/drive/folders/1WUMKdAJtKBnQLEsB9MLHCDyKj01LLw0X)  
 - 📧 Reach me at: **tarunkulkarni4@gmail.com**  
@@ -31,7 +31,6 @@
 | [🍅 Tomato](https://tomatof-in.onrender.com/) | Food delivery app with Stripe | React, Node.js, MongoDB |
 | [🩺 Prescripto](#) | Doctor appointment app (🚧 Work in Progress) | React, Express, MongoDB |
 | [💬 Chat App](#) | Real-time messaging (🚧 Work in Progress) | React, Node.js, Socket.io |
-| [📡 Radar Arduino]| Radar with ultrasonic sensor | Arduino, Servo Motor |
 
 ---
 
