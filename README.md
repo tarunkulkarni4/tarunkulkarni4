@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Tarun Chidambar Kulkarni</strong></h1>
 <h3 align="center">MCA Student | Aspiring Software Engineer | React.js & Java Enthusiast</h3>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
 </p>
@@ -14,8 +13,8 @@
 
 ## 🧠 About Me
 
-- 🔭 Working on: [Prescripto - Doctor Appointment App](https://github.com/tarunkulkarni/prescripto)  
-- 🍕 Collaborating on: [Tomato - Food Delivery App](https://tomatof-in.onrender.com/)  
+- 🔭 Working on: **Prescripto - Doctor Appointment App** (🚧 Work in Progress)  
+- 🍕 Live: [Tomato - Food Delivery App](https://tomatof-in.onrender.com/)  
 - 💬 Ask me about: **React.js**, **Java (DSA)**, **MongoDB**, **Tailwind CSS**  
 - 📚 Learning: **DSA**, **Next.js**, **TypeScript**, **System Design**  
 - 💼 Portfolio: [tarun-kulakarni-portfolio.vercel.app](https://tarun-kulakarni-portfolio.vercel.app/)  
@@ -29,10 +28,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🍅 Tomato](https://github.com/tarunkulkarni/tomato) | Food delivery app with Stripe | React, Node.js, MongoDB |
-| [🩺 Prescripto](https://github.com/tarunkulkarni/prescripto) | Online doctor appointment app | React, Express, MongoDB |
-| [💬 Chat App](#) | Real-time messaging with sockets | React, Node.js, Socket.io |
-| [📡 Radar Arduino](https://github.com/tarunkulkarni/radar-arduino) | Radar with ultrasonic sensor | Arduino, Servo Motor |
+| [🍅 Tomato](https://tomatof-in.onrender.com/) | Food delivery app with Stripe | React, Node.js, MongoDB |
+| [🩺 Prescripto](#) | Doctor appointment app (🚧 Work in Progress) | React, Express, MongoDB |
+| [💬 Chat App](#) | Real-time messaging (🚧 Work in Progress) | React, Node.js, Socket.io |
+| [📡 Radar Arduino]| Radar with ultrasonic sensor | Arduino, Servo Motor |
 
 ---
 
@@ -86,8 +85,6 @@
   </li>
 </ul>
 
-
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -131,4 +128,3 @@
 <p align="center">
   Made with 🚀 by <strong>Tarun Chidambar Kulkarni</strong>
 </p>
-
