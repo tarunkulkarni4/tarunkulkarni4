@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <strong>Tarun Chidambar Kulkarni</strong></h1>
-<h3 align="center">Aspiring Software Engineer | React.js & Java Enthusiast</h3>
+<h3 align="center">MCA Student | Aspiring Software Engineer | React.js & Java Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
@@ -50,6 +51,45 @@
 
 ---
 
+<h2>📁 My GitHub Repositories</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/Finallll-Copy" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> Tomato – Food Delivery App
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/DSA-Questions" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> DSA Questions
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/gfg-50" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> GFG Top 50
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/FOREVER-CLOTHING-DELIVERY-APPLICATION" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> Forever – Clothing Delivery App
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/Already-asked" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> Already Asked Questions
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/tarunkulkarni4/tarun" target="_blank">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="18" /> Portfolio Repository
+    </a>
+  </li>
+</ul>
+
+
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -89,5 +129,6 @@
 ---
 
 <p align="center">
-  Made with 💜 by <strong>Tarun Chidambar Kulkarni</strong>
+  Made with 🚀 by <strong>Tarun Chidambar Kulkarni</strong>
 </p>
+
