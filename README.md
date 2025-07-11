@@ -29,7 +29,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🍅 Tomato](https://tomatof-in.onrender.com/) | Food delivery app with Stripe | React, Node.js, MongoDB |
-| [🩺 Prescripto](#) | Doctor appointment app (🚧 Work in Progress) | React, Express, MongoDB |
+| [🩺 Prescripto](https://prescripto-front-end-ulur.vercel.app/) | Doctor appointment app  | React, Express, MongoDB |
 | [💬 Chat App](#) | Real-time messaging (🚧 Work in Progress) | React, Node.js, Socket.io |
 
 ---
