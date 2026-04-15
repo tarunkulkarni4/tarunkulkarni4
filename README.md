@@ -5,13 +5,33 @@
 
 <div align="center">
 
-<a href="https://tarunkulakarni-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C3CE1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh"><img src="https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="mailto:tarunkulkarni4@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tarun-kulakarni-35b475254"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Tarun_kulakarni/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://twitter.com/tarunkulkarni5"><img src="https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=white" /></a>
+<p align="center">
 
+<a href="https://tarunkulakarni-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh">
+  <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+<a href="mailto:tarunkulkarni4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/tarun-kulakarni-35b475254">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Tarun_kulakarni/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://twitter.com/tarunkulkarni5">
+  <img src="https://img.shields.io/badge/Twitter(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</p>
 <br/><br/>
 
 ```
