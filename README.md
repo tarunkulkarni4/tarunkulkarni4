@@ -7,28 +7,39 @@
 
 <p align="center">
 
-<a href="https://tarunkulakarni-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://tarunkulakarni-portfolio.vercel.app/" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/20/000000/domain.png"/> 
+  <u>Portfolio</u>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh">
-  <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/20/000000/google-drive--v1.png"/> 
+  <u>Resume</u>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:tarunkulkarni4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:tarunkulkarni4@gmail.com" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png"/> 
+  <u>Email</u>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/tarun-kulakarni-35b475254">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/tarun-kulakarni-35b475254" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/> 
+  <u>LinkedIn</u>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Tarun_kulakarni/">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Tarun_kulakarni/" style="text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> 
+  <u>LeetCode</u>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/tarunkulkarni5">
-  <img src="https://img.shields.io/badge/Twitter(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.icons8.com/ios-filled/20/000000/twitterx.png"/> 
+  <u>Twitter</u>
 </a>
 
 </p>
