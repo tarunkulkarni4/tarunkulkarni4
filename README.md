@@ -7,39 +7,39 @@
 
 <p align="center">
 
-<a href="https://tarunkulakarni-portfolio.vercel.app/" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/20/000000/domain.png"/> 
-  <u>Portfolio</u>
+<a href="https://tarunkulakarni-portfolio.vercel.app/" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/domain.png"/>
+  <span><u>Portfolio</u></span>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/20/000000/google-drive--v1.png"/> 
-  <u>Resume</u>
+<a href="https://drive.google.com/drive/folders/11me8gu8WPKsLA54sWyWMm0BTs-1NGlLh" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/google-drive--v1.png"/>
+  <span><u>Resume</u></span>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:tarunkulkarni4@gmail.com" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png"/> 
-  <u>Email</u>
+<a href="mailto:tarunkulkarni4@gmail.com" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/new-post.png"/>
+  <span><u>Email</u></span>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/tarun-kulakarni-35b475254" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/> 
-  <u>LinkedIn</u>
+<a href="https://linkedin.com/in/tarun-kulakarni-35b475254" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/linkedin.png"/>
+  <span><u>LinkedIn</u></span>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Tarun_kulakarni/" style="text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/20/000000/code.png"/> 
-  <u>LeetCode</u>
+<a href="https://leetcode.com/u/Tarun_kulakarni/" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/code.png"/>
+  <span><u>LeetCode</u></span>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/tarunkulkarni5">
-  <img src="https://img.icons8.com/ios-filled/20/000000/twitterx.png"/> 
-  <u>Twitter</u>
+<a href="https://twitter.com/tarunkulkarni5" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://img.icons8.com/ios-filled/18/000000/twitterx.png"/>
+  <span><u>Twitter</u></span>
 </a>
 
 </p>
